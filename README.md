@@ -109,7 +109,7 @@ c.Visualization: The web application highlights words based on their importance 
 
 d.Probability Output: The web application displays the predicted probabilities for each sentiment class in percentage form (e.g., 85% Positive, 5% Neutral, 10% Negative).
 
-e.User Interface: The interface is simple, allowing users to input text, view highlighted words, sentiment classification, and probabilities. The interface is given below
+e.User Interface: The interface is simple, allowing users to input text, view highlighted words, sentiment classification, and probabilities. To run the application open the link http://127.0.0.1:5000/ on the browser and the interface is given below
 
 
 <img width="442" alt="image" src="https://github.com/user-attachments/assets/38bf37b1-3408-4c74-9875-dae3ba051085" />
