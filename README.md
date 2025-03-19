@@ -61,7 +61,7 @@ d.TF-IDF Vectorization: The text data was transformed into numerical form using 
 
 **3. Model Selection & Training Details**
 
-The whole implementation has been performed on Spyder using python 3.10.9. The following ML models were selected and trained for the task of predicting emotions based on the text input:
+The whole implementation has been performed on Spyder using python 3.10.9 and tensorflow. The following machine learning models were selected and trained for the task of predicting emotions based on the text input:
 
 a.Logistic Regression (LR)
 
